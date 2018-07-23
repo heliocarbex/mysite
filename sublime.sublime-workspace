@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hash_in",
+				"hash_inflation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pretify",
+				"HTMLPrettify"
+			],
+			[
+				"git conf",
+				"Git Conflict Resolver: Find Next Conflict"
+			],
+			[
+				"show",
+				"Git Conflict Resolver: Show Conflict Files"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"find",
+				"FindInProject: Search Project"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pretif",
+				"HTMLPrettify"
+			],
+			[
+				"git",
+				"Set Syntax: Git Log"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"inst",
+				"Indexing Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"command",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vintage",
+				"Vintageous: Open .vintageousrc"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"defini",
+				"Go To Definition"
+			],
+			[
+				"nistal",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"shell",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"pomodo",
+				"Pomodoro: Run Pomodoro"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"hex",
+				"HexViewer: Toggle Hex View"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown live",
+				"MarkdownLivePreview: Clear the cache"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"MarkdownLivePreview: Edit Current File"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 658.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"view.run_command('example')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/n4lz/repos/mysite"
+	],
+	"file_history":
+	[
+		"/C/Users/n4lz/repos/todos/1-asap.todo",
+		"/V/TAR_CPT_CIP-N_CPROJ-N/NP-2/02. Projetos de Invest/RC3205A - ET, ARG/01. Perfuração/ET/01.Poços/POÇOS 2018/7-ET-1602D-RN/PROSPECTO_ET1602D .txt",
+		"/C/Users/n4lz/repos/todos/3-talvez.todo",
+		"/C/Users/n4lz/repos/shelltools/tools.sh",
+		"/C/Users/n4lz/Documents/SAP/SAP GUI/precos.txt",
+		"/C/Users/n4lz/Desktop/alllinks.txt",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/alllinks.txt",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/links2.txt",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/links.txt",
+		"/C/Users/n4lz/Desktop/fotos/links.txt",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/test_selenium - Cópia.py",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/test_selenium.py",
+		"/C/Users/n4lz/Downloads/crawl_ams.py",
+		"/C/Users/n4lz/Desktop/1.txt",
+		"/C/Users/n4lz/Desktop/link1.txt",
+		"/C/Users/n4lz/Desktop/links.txt",
+		"/V/TAR_CPT_CIP-N_CPROJ-N/NP-2/02. Projetos de Invest/RC3205A - ET, ARG/01. Perfuração/ET/01.Poços/POÇOS 2018/7-ET-1619-RN/PROSPECTO ET1619 .txt",
+		"/C/Users/n4lz/Desktop/3.txt",
+		"/C/Users/n4lz/Desktop/4.txt",
+		"/C/Users/n4lz/Desktop/5.txt",
+		"/C/Users/n4lz/Desktop/6.txt",
+		"/C/Users/n4lz/Desktop/7.txt",
+		"/C/Users/n4lz/Desktop/8.txt",
+		"/C/Users/n4lz/Desktop/2.txt",
+		"/C/Users/n4lz/repos/todos/2-delegado.todo",
+		"/C/Users/n4lz/repos/cola_direito/supermemo 16/systems/Direito/reports/Recover.txt",
+		"/C/Users/n4lz/.bashrc",
+		"/C/Users/n4lz/repos/tools.sh",
+		"/C/Users/n4lz/repos/cola_direito/Insumos/Direito Empresarial 2/comercial 2-prova 3.md",
+		"/C/Users/n4lz/repos/cola_direito/Insumos/Direito Empresarial 2/comercial 2-prova 2.md",
+		"/C/Users/n4lz/Desktop/Tutorial.todo.txt",
+		"/C/Users/n4lz/Desktop/result.txt",
+		"/C/Users/n4lz/repos/todos/0-fazer.todo",
+		"/C/Users/n4lz/Documents/1-Programacao/cola_direito/Direito Empresarial 2/comercial 2-prova 3.md",
+		"/C/Users/n4lz/repos/cola_direito/Supermemo 16/bin/tips.txt",
+		"/C/Users/n4lz/repos/todos/trabalho_archive.todo",
+		"/C/Users/n4lz/repos/todos/trabalho.todo",
+		"/C/Users/n4lz/repos/todos/pessoal.todo",
+		"/C/Users/n4lz/repos/todos/fazer.todo",
+		"/C/Users/n4lz/repos/todos/talvez.todo",
+		"/C/Users/n4lz/repos/todos/delegado.todo",
+		"/C/Users/n4lz/repos/todos/asap.todo",
+		"/C/Users/n4lz/repos/cola_direito/Direito Empresarial 2/comercial 2-prova 3.md",
+		"/C/Users/n4lz/Desktop/Pre-sets/dirs.txt",
+		"/C/Users/n4lz/repos/todos/execucao.todo",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+		"/C/Users/n4lz/repos/todos/execucao.md",
+		"/C/Users/n4lz/repos/todos/notas/livro gtd.md",
+		"/V/TAR_CPT_CIP-N_CPROJ-N/NP-2/02. Projetos de Invest/RC3205A - ET, ARG/01. Perfuração/ET/01.Poços/POÇOS 2018/7-ET-1833D-RN/PROSPECTO ET1833D.txt",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/Package Control.sublime-settings",
+		"/C/Users/n4lz/AppData/Local/Temp/Package Control.sublime-settings",
+		"/C/Users/n4lz/Desktop/output.txt",
+		"/C/Users/n4lz/Desktop/tasks",
+		"/C/Users/n4lz/repos/sapscript/TODO",
+		"/C/Users/n4lz/repos/sapscript/README.md",
+		"/C/Users/n4lz/repos/sapscript/setup.py",
+		"/C/Users/n4lz/Desktop/teste.html",
+		"/C/Users/n4lz/repos/pythoncheats/catch_availableprospects.py",
+		"/C/Users/n4lz/repos/pythoncheats/copy_well_files.py",
+		"/C/Users/n4lz/Documents/0-Apps/Python/python-env.txt",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/n4lz/repos/pythoncheats/print_reorcamentation.py",
+		"/C/Users/n4lz/repos/cola_direito/Direito Civil 5/civil 5-prova 2.md",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/n4lz/repos/todos/procrastination",
+		"/C/Users/n4lz/Desktop/padrao.txt",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/.vintageousrc",
+		"/C/Users/n4lz/Documents/Simentar.dmp",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Users/n4lz/Documents/0-Apps/Python365/share/kivy-examples/demo/showcase/main.py",
+		"/C/Program Files (x86)/Petrobras/Simentar 2.5.1/bin/simentar10/algorithm/basics.py",
+		"/C/Program Files (x86)/Petrobras/Simentar 2.5.1/bin/simentar10/main.py",
+		"/C/Users/n4lz/repos/PlainTasks/APlainTasksCommon.py",
+		"/C/Users/n4lz/repos/PlainTasks/PlainTasks.py",
+		"/C/Users/n4lz/repos/PlainTasks/tasks.hidden-tmTheme",
+		"/C/Users/n4lz/repos/PlainTasks/PlainTasks.tmLanguage",
+		"/C/Users/n4lz/repos/PlainTasks/Symbol List.tmPreferences",
+		"/C/Users/n4lz/repos/PlainTasks/icons/TODO.icns",
+		"/C/Users/n4lz/repos/PlainTasks/PlainTasks.sublime-syntax",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/hello_world.py",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/google.py",
+		"/C/Users/n4lz/repos/PlainTasks/PlainTasksDates.py",
+		"/C/Users/n4lz/repos/PlainTasks/PlainTasksToHTML.py",
+		"/C/Users/n4lz/repos/PlainTasks/plist_parser.py",
+		"/C/Users/n4lz/repos/PlainTasks/TODO.todo",
+		"/C/Users/n4lz/repos/PlainTasks/Readme.md",
+		"/C/Users/n4lz/repos/PlainTasks/tests/test.py",
+		"/C/Users/n4lz/repos/PlainTasks/tests/How to run tests.md",
+		"/C/Users/n4lz/repos/PlainTasks/messages/install.txt",
+		"/C/Users/n4lz/Documents/1-Programacao/Selenium/hello.py",
+		"/C/Users/n4lz/.bash_history",
+		"/C/Users/n4lz/.gitconfig",
+		"/C/Users/n4lz/.git-credentials",
+		"/C/Users/n4lz/repos/pythoncheats/teste.py",
+		"/C/Users/n4lz/repos/pythoncheats/reorçamentação.txt",
+		"/C/Users/n4lz/repos/todos/templates/reorcamentacao.todo",
+		"/C/Users/n4lz/AppData/Local/Temp/Temp1_fibonacci.zip/fibonacci.py",
+		"/C/Users/n4lz/Downloads/fibonacci/fibonacci.py",
+		"/C/Users/n4lz/AppData/Local/Temp/Temp1_simulation.zip/simulation.py",
+		"/C/Users/n4lz/AppData/Local/Temp/Temp1_fibonacci_standalone.zip/LICENSE.txt",
+		"/C/Users/n4lz/repos/Sap/src/sapscript_acompanhator.py",
+		"/C/Users/n4lz/Downloads/feedly-9a16f173-d9c1-4531-ae45-86b8c6904798-2018-05-18.opml",
+		"/C/Users/Public/Documents/logon.txt",
+		"/C/Users/n4lz/Documents/pw.txt",
+		"/C/Users/n4lz/repos/cola_direito/Supermemo 16/systems/Direito.Kno",
+		"/C/Users/n4lz/Documents/wordpress.txt",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/User/Pomodoro.sublime-settings",
+		"/C/Users/n4lz/Documents/0-Apps/Sublime Text Build 3143 x64/Data/Packages/Sublime-Pomodoro/Pomodoro.sublime-settings",
+		"/C/Users/n4lz/repos/pw.txt",
+		"/V/TAR_CPT_CIP-N_CPROJ-N/NP-2/02. Projetos de Invest/09. Outros/01. Projetos Especiais/2018-04 - Orçamentação RFQ e LV/pastas.txt",
+		"/V/TAR_CPT_CIP-N_CPROJ-N/NP-2/02. Projetos de Invest/09. Outros/01. Projetos Especiais/2018-04 - Orçamentação RFQ e LV/pastas2.txt",
+		"/C/Users/n4lz/Documents/0-Apps/xpdfbin-win-3.04/bin64/prospecto_locacao (1).txt",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/pw.txt",
+		"/C/Users/n4lz/repos/algo.task",
+		"/C/Users/n4lz/Documents/2-pessoais/0-direito/repositorios/cola_direito/supermemo 16/systems/Direito/reports/Recover.txt",
+		"/C/Users/n4lz/Documents/2-pessoais/0-direito/repositorios/cola_direito/supermemo 16/systems/Direito/reports/Contents.txt",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Civil 5/civil 5-prova 2.csv",
+		"/C/Users/n4lz/.config/git/gitk",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Supermemo15/systems/ABC of SuperMemo 15.Kno",
+		"/C/Users/n4lz/.ssh/known_hosts",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2.csv",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/[Content_Types].xml",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/docProps/app.xml",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/docProps/core.xml",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/xl/sharedStrings.xml",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/xl/workbook.xml",
+		"/C/Users/n4lz/Documents/2-Pessoais/0-Direito/Repositorios/cola_direito/Direito Empresarial 2/comercial 2-prova 2/xl/worksheets/sheet1.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 339.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\n4lz\\repos\\cola_direito\\Insumos\\Direito Empresarial 2\\comercial 2-prova 3.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
