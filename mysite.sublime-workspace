@@ -357,7 +357,7 @@
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -437,8 +437,8 @@
 						"selection":
 						[
 							[
-								1163,
-								1163
+								1653,
+								1653
 							]
 						],
 						"settings":
@@ -616,7 +616,7 @@
 	"project": "mysite.sublime-project",
 	"replace":
 	{
-		"height": 72.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -640,7 +640,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\hb2ar\\source\\repos\\todos\\todo.sublime-project"
+				"C:\\Users\\hb2ar\\Repos\\todos\\todo.sublime-project"
 			]
 		],
 		"width": 380.0
